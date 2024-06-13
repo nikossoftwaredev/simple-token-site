@@ -12,12 +12,12 @@ export const metadata: Metadata = {
   openGraph: {
     title: TOKEN_NAME,
     description: `${TOKEN_NAME}  ca: ${TOKEN_ADDRESS}`,
-    images: "https://trump-wif-birthday.fun/images/logo.webp",
+    images: "https://trump-wif-birthday.fun/images/banner.png",
   },
   twitter: {
     title: TOKEN_NAME,
     description: `${TOKEN_NAME}  ca: ${TOKEN_ADDRESS}`,
-    images: "https://trump-wif-birthday.fun/images/logo.webp",
+    images: "https://trump-wif-birthday.fun/images/banner.png",
   },
 };
 
