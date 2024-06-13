@@ -4,7 +4,7 @@ import "./globals.css";
 import { TOKEN_ADDRESS, TOKEN_NAME } from "@/data/config";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://trump-wif-birthday.fun"),
+  metadataBase: new URL("https://www.trump-wif-birthday.fun"),
   title: TOKEN_NAME,
   description: `${TOKEN_NAME}  ca: ${TOKEN_ADDRESS}`,
   applicationName: TOKEN_NAME,
@@ -12,12 +12,12 @@ export const metadata: Metadata = {
   openGraph: {
     title: TOKEN_NAME,
     description: `${TOKEN_NAME}  ca: ${TOKEN_ADDRESS}`,
-    images: "https://trump-wif-birthday.fun/images/banner.png",
+    images: "https://www.trump-wif-birthday.fun/images/banner.png",
   },
   twitter: {
     title: TOKEN_NAME,
     description: `${TOKEN_NAME}  ca: ${TOKEN_ADDRESS}`,
-    images: "https://trump-wif-birthday.fun/images/banner.png",
+    images: "https://www.trump-wif-birthday.fun/images/banner.png",
   },
 };
 
