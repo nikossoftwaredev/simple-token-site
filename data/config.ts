@@ -5,7 +5,7 @@ export const TOKEN_SYMBOL = "$TRUMPWIF";
 export const TOKEN_NAME = "Trump Wif Birthday";
 export const TOTAL_SUPPLY = "1B";
 
-export const TOKEN_ADDRESS = "ca after pump";
+export const TOKEN_ADDRESS = "9vhJzi5uCxwNJ6Aruhe2orXuZHbrPe5jd799YhXnpump";
 export const RAYDIUM_URL = `https://raydium.io/swap/?inputCurrency=sol&outputCurrency=${TOKEN_ADDRESS}&fixed=in`;
 export const BIRDEYE_URL = `https://birdeye.so/token/${TOKEN_ADDRESS}?chain=solana`;
 export const DEX_URL = `https://dexscreener.com/solana/${TOKEN_ADDRESS}`;
